@@ -6,7 +6,7 @@ description: "Blok kodlamaya giriyoruz.Blok kodlama programlarını ve işlevler
 author: "Zakir"
 excerpt: null
 image:
-  src: .\public\picture\blok_kodlama\scratch.jpg
+  src: \public\picture\blok_kodlama\scratch.jpg
   alt: scratch uygulamasının bir resmi
 tags: ["blok kodlama", "kodlama", "eğitim", "çocuklar için kodlama", "Scratch", "Arduino", "programlama", "teknoloji"]
 ---
