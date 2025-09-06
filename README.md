@@ -1,25 +1,25 @@
-# Astro & Tailwind CSS Starter Kit
+# Astro & Tailwind CSS Başlangıç Kiti
 
-## Features
+## Özellikler
 
-Explore the Astro.js Personal Blog Template – a sleek and feature-rich platform for your personal blog:
+Kişisel blogunuz için şık ve zengin özelliklere sahip bir platform olan Astro.js Kişisel Blog Şablonunu keşfedin:
 
-- **Astro.js Powered**: Dynamic and efficient JavaScript-driven experience.
-- **Tailwind CSS Integration**: Ensures a stylish and responsive design.
-- **RSS Feed Support**: Keeps your audience updated effortlessly.
-- **Markdown Compatibility**: Streamlines content creation with easy formatting.
-- **Syntax Highlighting**: Enhances code snippet readability for tech enthusiasts.
-- **SEO-Optimized**: Includes a sitemap for optimal search engine visibility.
-- **Vercel Deployment:** preconfigured Vercel deployment & web analytics.
-- **Framework of your choice:** 100% Astro.js only template - choose your JS Framework (react preinstalled)
+- **Astro.js Destekli**: Dinamik ve verimli JavaScript tabanlı deneyim.
+- **Tailwind CSS Entegrasyonu**: Şık ve duyarlı bir tasarım sağlar.
+- **RSS Beslemesi Desteği**: Hedef kitlenizi zahmetsizce güncel tutar.
+- **Markdown Uyumluluğu**: Kolay biçimlendirme ile içerik oluşturmayı kolaylaştırır.
+- **Sözdizimi Vurgulama**: Teknoloji meraklıları için kod parçacıklarının okunabilirliğini artırır.
+- **SEO Optimize Edilmiş**: Optimum arama motoru görünürlüğü için site haritası içerir.
+- **Vercel Dağıtımı:** önceden yapılandırılmış Vercel dağıtımı ve web analitiği.
+- **Tercih ettiğiniz çerçeve:** %100 Astro.js şablonu - JS Çerçevenizi seçin (react önceden yüklenmiş)
 
-Unlock a seamless blend of aesthetics and functionality to share your unique voice with the world.
+Estetik ve işlevselliğin kusursuz birleşimini keşfedin ve benzersiz sesinizi dünyayla paylaşın.
 
-## Showcase
+## Vitrin
 
-![showcase](/public/showcase.png 'AstroPress - Tech Blog Template')
+![vitrin](/public/showcase.png ‘AstroPress - Teknoloji Blogu Şablonu’)
 
-## Template Integrations
+## Şablon Entegrasyonları
 
 - @astrojs/tailwind - https://docs.astro.build/en/guides/integrations-guide/tailwind/
 - @astrojs/react - https://docs.astro.build/en/guides/integrations-guide/react/
@@ -28,9 +28,9 @@ Unlock a seamless blend of aesthetics and functionality to share your unique voi
 - @vercel/analytics - https://vercel.com/docs/analytics/
 - rehype-pretty-code - https://rehype-pretty-code.netlify.app/
 
-## Template Structure
+## Şablon Yapısı
 
-Inside of your Astro project, you'll see the following folders and files:
+Astro projenizin içinde aşağıdaki klasörleri ve dosyaları göreceksiniz:
 
 ```
 /
@@ -41,25 +41,25 @@ Inside of your Astro project, you'll see the following folders and files:
 └── package.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Astro, `src/pages/` dizininde `.astro` veya `.md` dosyalarını arar. Her sayfa, dosya adına göre bir rota olarak gösterilir.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+`src/components/` dizininde özel bir şey yoktur, ancak Astro/React/Vue/Svelte/Preact bileşenlerini buraya yerleştirmeyi tercih ediyoruz.
 
-Any static assets, like images, can be placed in the `public/` directory.
+Görüntüler gibi tüm statik varlıklar `public/` dizinine yerleştirilebilir.
 
-## Commands
+## Komutlar
 
-All commands are run from the root of the project, from a terminal:
+Tüm komutlar, terminalden projenin kök dizininden çalıştırılır:
 
-| Command                | Action                                           |
-| :--------------------- | :----------------------------------------------- |
-| `npm install`          | Installs dependencies                            |
-| `npm run dev`          | Starts local dev server at `localhost:3000`      |
-| `npm run build`        | Build your production site to `./dist/`          |
-| `npm run preview`      | Preview your build locally, before deploying     |
-| `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro --help` | Get help using the Astro CLI                     |
+| Komut                | Eylem                                           |
+| :--------------------- | :------------------------------------------ ----- |
+| `npm install`          | Bağımlılıkları yükler                            |
+| `npm run dev`          | `localhost:3000` adresinde yerel geliştirme sunucusunu başlatır      |
+| `npm run build`        | Üretim sitenizi `./dist/` adresine derler          |
+| `npm run preview`      | Dağıtmadan önce derlemenizi yerel olarak önizler     |
+| `npm run astro ...`    | `astro add`, `astro check` gibi CLI komutlarını çalıştır |
+| `npm run astro --help` | Astro CLI'yi kullanarak yardım al |
 
-## Want to learn more?
+## Daha fazla bilgi edinmek ister misiniz?
 
-Feel free to check Astros [documentation](https://docs.astro.build)
+Astro'nun [belgelerini](https://docs.astro.build) inceleyebilirsiniz.
