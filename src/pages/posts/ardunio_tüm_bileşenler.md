@@ -8,7 +8,7 @@ excerpt: null
 image:
   src:
   alt:
-tags: ["Bileşenler", "kodlama", "eğitim", "çocuklar için kodlama", "modüller", "Arduino", "programlama", "teknoloji"]
+tags: ["kodlama", "eğitim", "modüller", "Arduino", "programlama"]
 ---
 
 # ARDUİNO BİLEŞENELERİ--ARDUİNO KAVRAMI BLOG -(4)-

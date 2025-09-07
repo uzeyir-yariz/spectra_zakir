@@ -2,13 +2,13 @@
 layout: ../../layouts/post.astro
 title: "ARDUİONO nedir? ARDUİNOYA GİRİŞ -1-"
 pubDate: 2025-9-7
-description:"arduino hakkında bilgiler alıyoruz sensöerlere göz atıyoruz"
+description: "arduino hakkında bilgiler alıyoruz sensöerlere göz atıyoruz"
 author: "Zakir"
 excerpt: null
 image:
   src: 
   alt: 
-tags: ["ARDUİNO", "kodlama", "eğitim", "çocuklar için kodlama", "modüller ve sensörler", "Arduino", "programlama", "teknoloji"]
+tags: ["kodlama", "Arduino", "programlama"]
 ---
 
 # Arduino Temel Bileşenler

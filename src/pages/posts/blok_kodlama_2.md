@@ -8,7 +8,7 @@ excerpt: null
 image:
   src: \public\picture\blok_kodlama\scract_2_kod_blokları.jpg
   alt: scratch uygulamasının bir resmi
-tags: ["blok kodlama", "kodlama", "Bilişim", "Her yaş için kodlamna", "pictoblox", "Arduino", "programlama", "teknoloji"]
+tags: ["blok kodlama", "kodlama", "pictoblox", "Arduino", "programlama"]
 ---
 
 # Arduino Blok Kodlama: Tüm Bloklar ve Kategoriler

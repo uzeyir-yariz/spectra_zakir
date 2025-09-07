@@ -8,7 +8,7 @@ excerpt: null
 image:
   src: \public\picture\blok_kodlama\scratch.jpg
   alt: scratch uygulamasının bir resmi
-tags: ["blok kodlama", "kodlama", "eğitim", "çocuklar için kodlama", "Scratch", "Arduino", "programlama", "teknoloji"]
+tags: ["blok kodlama", "Scratch", "Arduino", "programlama"]
 ---
 
 # Blog Yazısı: Blok Kodlamaya Giriş
