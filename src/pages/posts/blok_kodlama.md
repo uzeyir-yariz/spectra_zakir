@@ -28,11 +28,8 @@ Genellikle *3-12 yaş arası çocuklara* kodlama mantığını öğretmek için 
 ## Başlıca Blok Kodlama Uygulamaları
 
 - *Scratch:* Genellikle blok kodlama ile tanışılan ilk platformdur. Oyun ve animasyon yapımı için oldukça idealdir.
-    
 - *PictoBlox:* Arduino desteği sunan ve zengin kütüphanelere sahip bir uygulamadır.
-    
 - *Otto Blockly:* Dotmatrix ve LCD ekran gibi modüllerin daha kolay kodlanmasını sağlayan, basit bir arayüze sahip bir platformdur.
-    
 
 ---
 
@@ -41,20 +38,12 @@ Genellikle *3-12 yaş arası çocuklara* kodlama mantığını öğretmek için 
 Blok kodlama, sunduğu birçok avantajla öne çıkar:
 
 1. *Kolay Erişim ve Kullanım:* Basit yapısı sayesinde her yaşa uygun ve erişilebilirdir.
-    
 2. *Esnek Öğrenme:* 3 seviyeli aşamalı yapısıyla, başlangıç seviyesinden daha karmaşık bloklara kadar ilerleme imkanı sunar.
-    
 3. *Kapsamlı Özelleştirme:* Ayarlanabilir arka planlar, karakterler, öğeler ve proje ayarları ile 3-12 yaş arası için zengin bir altyapı sağlar.
-    
 4. *Kolay Kayıt ve Yedekleme:* Projelerinizi kolayca kaydedip yedekleyebilirsiniz.
-    
 5. *Platform Bağımsızlığı:* Her sistemle uyumlu dosya formatlarına sahiptir.
-    
 6. *Web Uyumluluğu:* Web tabanlı projeler geliştirmeye uygundur.
-    
 7. *Çevrimdışı Kullanım:* İnternet bağlantısı gerektirmez.
-    
 8. *Geniş Kaynak Havuzu:* Sınırsız sayıda eğitim materyali ve kaynağa kolayca ulaşabilirsiniz.
-    
 
 Bu özellikleriyle blok kodlama, teknolojiyle tanışmak için harika bir başlangıç noktasıdır.
